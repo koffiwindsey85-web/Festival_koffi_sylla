@@ -6,8 +6,8 @@
 
 | Prénom NOM | Identifiant Git | Groupe |
 |------------|-----------------|--------|
-|            |                 |        |
-|            |                 |        |
+|Windsey Koffi|koffiwindsey85-web|Créa 2|
+|Marie Sylla|marie-113|Créa 2|
 
 ### Répartition du travail
 
